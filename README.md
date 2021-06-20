@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 💼 I’m currently working at Thoughtworks as Software Developer Consultant
 - 🌱 I’m currently learning Progressive Web Applications and Evolutionary Architectures
 - 💻 I have 16 years development working experience
-- 📚 Reading more about: Tech things (Most on Blogs/Forums) and Climate/Social changes and Azimov's books on my Kindle.
 - ⚡ Hobbies: Chess, CaseMode, Guitar Play, Table RPGs, Miniature Paint, Online FPS and MMOs Games.
 
 
