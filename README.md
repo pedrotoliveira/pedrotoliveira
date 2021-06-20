@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-logging&color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,111212,05f5f5" />
 </a>
 <hr>
-<a href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
+<a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
 </p>
 
 
