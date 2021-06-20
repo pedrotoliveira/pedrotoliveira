@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+### Hi there My Name is Pedro Oliveira 👋
 
 <!--
 **pedrotoliveira/pedrotoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 I’m currently working at Thoughtworks as Software Developer Consultant
-- 🌱 I’m currently learning Progressive Web Applications and Evolutionary Architectures
 - 💻 I have 16 years development working experience
-- ⚡ Hobbies: Chess, CaseMode, Guitar Play, Table RPGs, Miniature Paint, Online FPS and MMOs Games.
+- 💼 I’m currently working at Thoughtworks as Software Developer Consultant
+- 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
+- ⚡ Current Hobbies: Chess, CaseMode, Guitar Play, Table RPGs, Miniature Paint, Online FPS and MMOs Games.
 
 
 ## &#x1f4c8; GitHub Stats
