@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💻 I have 16 years development working experience
 - 💼 I’m currently working at Thoughtworks as Software Developer Consultant
 - 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
-- ⚡ Current Hobbies: Chess, Computer CaseMod, Guitar Play, Table RPGs, Miniature Paint, Online FPS and MMOs Games.
+- ⚡ Current Hobbies: Chess, Computer Case Mod, Guitar Play, Table RPGs, Miniature Paint, Former not so former Online Gamer.
 
 
 ## &#x1f4c8; GitHub Stats
