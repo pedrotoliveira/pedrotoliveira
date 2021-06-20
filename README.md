@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 <hr>
 <p align="center"> You can also find me in: <br/>
-<a href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
 </p>
 
 
