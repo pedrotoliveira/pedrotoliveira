@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/pedrotoliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&hide=html&title_color=ffffff&text_color=d9d5db&icon_color=2bbc8a&bg_color=DEG,151717,452b57&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/pedrotoliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,221763,151717" alt="Pedro's GitHub Stats" />
 </a>
 
