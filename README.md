@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 </a>
 <br/> 
 -->
-
 <a href="https://github.com/pedrotoliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&hide=html&title_color=ffffff&text_color=d9d5db&icon_color=2bbc8a&bg_color=DEG,151717,452b57&layout=compact&langs_count=10" />
 <br/>
@@ -41,8 +40,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-commons&title_color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,1c0a3b,111212" />
 </a>
 <a href="https://github.com/pedrotoliveira/ppm-logging">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-logging&color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,111212,05f5f5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-logging&color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,1c0a3b,111212" />
 </a>
+<a href="https://github.com/pedrotoliveira/ppm-test-helper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-test-helper&title_color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,1c0a3b,111212" />
+</a>
+
 <hr>
 <a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
 </p>
