@@ -1,4 +1,6 @@
+<!--
 ![pedrotoliveira/pedrotoliveira](https://github.com/pedrotoliveira/halfrost/blob/master/icons/header_.png?raw=true)
+-->
 
 ### Hi there My Name is Pedro Oliveira 👋
 
