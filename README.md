@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&&theme=tokyonight&show_icons=true" alt="Pedro's GitHub Stats" />
 </a>
 <br/> 
--->
+
 <a href="https://github.com/pedrotoliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&hide=html&title_color=ffffff&text_color=d9d5db&icon_color=2bbc8a&bg_color=DEG,151717,452b57&layout=compact&langs_count=10" />
 <br/>
@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <hr>
 <a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
 </p>
-
+-->
 
