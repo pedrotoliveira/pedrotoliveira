@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -22,17 +21,20 @@ Here are some ideas to get you started:
 - 💻 I have 16 years development working experience
 - 💼 I’m currently working as Software Developer Consultant
 - 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
-- ⚡ Current Hobbies: Chess, Computer Case Mod, Guitar Play, Table RPGs, Miniature Paint, Online Gamer (FPS/MMOs/Competitive).
+- ⚡ Current Hobbies: Chess, Computer Case Mod, Guitar Play, Table RPGs, Miniature Paint, Online Gamer
+
+## 📫 How to reach me:
 
 
-<!-- 
 ## &#x1f4c8; GitHub Stats
-
 
 </a>
 <a href="https://github.com/pedrotoliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&&theme=tokyonight&show_icons=true" alt="Pedro's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&show_icons=true&theme=tokyonight" alt="Pedro's GitHub Stats" />
 </a>
+
+<!-- 
+
 <br/> 
 
 <a href="https://github.com/pedrotoliveira">
