@@ -25,20 +25,27 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
+<a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
 
 ## &#x1f4c8; GitHub Stats
 
-</a>
-<a href="https://github.com/pedrotoliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&show_icons=true&theme=tokyonight" alt="Pedro's GitHub Stats" />
-</a>
+  <a href="https://github.com/pedrotoliveira">
+    <img align="center"
+         alt="Pedro's GitHub Stats"
+         src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&show_icons=true&theme=tokyonight" />
+  </a>
+  <br/> 
+  <a href="https://github.com/pedrotoliveira">
+    <img align="center" 
+         alt="Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&langs_count=10&layout=compact&theme=tokyonight" />
+  </a>
 
 <!-- 
 
-<br/> 
 
-<a href="https://github.com/pedrotoliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&hide=html&title_color=ffffff&text_color=d9d5db&icon_color=2bbc8a&bg_color=DEG,151717,452b57&layout=compact&langs_count=10" />
+
+
 <br/>
 <hr>
 <a href="https://github.com/pedrotoliveira/ppm-commons">
@@ -52,7 +59,7 @@ Here are some ideas to get you started:
 </a>
 
 <hr>
-<a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
+
 </p>
 -->
 
