@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I have 16 years development working experience
+- 💻 I have 17 years development working experience
 - 💼 I’m currently working as Software Developer Consultant
 - 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
 - ⚡ Current Hobbies: Chess, Computer Case Mod, Guitar Play, Table RPGs, Miniature Paint, Online Gamer
