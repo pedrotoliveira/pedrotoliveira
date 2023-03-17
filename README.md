@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 
 <a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
 
+## 📊 &nbsp;** I spent my time on**
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pedrotoliveira/b2d3426d-67b1-407f-bfc9-2bd4aae10d21.png" /></a>
+
+<!-- 
+## 📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pedrotoliveira&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 ## &#x1f4c8; GitHub Stats
 
   <a href="https://github.com/pedrotoliveira">
@@ -39,26 +48,7 @@ Here are some ideas to get you started:
     <img align="center" 
          alt="Top Languages" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&langs_count=10&layout=compact&theme=tokyonight" />
-  </a>
-
-<!-- 
-
-
-
-
-<br/>
-<hr>
-<a href="https://github.com/pedrotoliveira/ppm-commons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-commons&title_color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,1c0a3b,111212" />
-</a>
-<a href="https://github.com/pedrotoliveira/ppm-logging">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-logging&color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,1c0a3b,111212" />
-</a>
-<a href="https://github.com/pedrotoliveira/ppm-test-helper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrotoliveira&repo=ppm-test-helper&title_color=ffffff&text_color=c9cacc&icon_color=09db33&bg_color=DEG,1c0a3b,111212" />
-</a>
-
-<hr>
+  </a
 
 
 ## 📊 &nbsp;**This week I spent my time on**
