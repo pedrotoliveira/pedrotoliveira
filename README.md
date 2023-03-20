@@ -44,18 +44,7 @@ Here are some ideas to get you started:
          src="https://github-readme-stats.vercel.app/api?username=pedrotoliveira&show_icons=true&theme=tokyonight" />
   </a>
   <br/> 
-  <a href="https://github.com/pedrotoliveira">
-    <img align="center" 
-         alt="Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoliveira&langs_count=10&layout=compact&theme=tokyonight" />
-  </a
 
-
-## 📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pedrotoliveira&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-</p>
 -->
 
 
