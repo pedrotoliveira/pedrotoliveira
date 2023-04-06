@@ -2,7 +2,7 @@
 ![pedrotoliveira/pedrotoliveira](https://github.com/pedrotoliveira/halfrost/blob/master/icons/header_.png?raw=true)
 -->
 
-### Hi there My Name is Pedro Oliveira 👋
+### Hi!! My Name is Pedro Oliveira 👋
 <!--
 **pedrotoliveira/pedrotoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
