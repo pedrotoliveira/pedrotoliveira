@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 💻 I have 17 years development working experience
 - 💼 I’m currently working as Software Developer Consultant
 - 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
-- ⚡ Current Hobbies: Chess, Computer Case Mod, Guitar Play, Table RPGs, Miniature Paint, Online Gamer
-
+- ⚡ Current Hobbies: Chess, Guitar Play, Table RPGs, Miniature Paint, Cook, Gardening
 ## 📫 How to reach me:
 
 <a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/">
