@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I have 17 years development working experience
-- 💼 I’m currently working as Software Developer Consultant
+- 💻 I have around 18 years of development working experience
+- 💼 I’m currently working as a Software Developer Consultant
 - 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
-- ⚡ Current Hobbies: Chess, Guitar Play, Table RPGs, Miniature Paint, Cook, Gardening
+- ⚡ Current Hobbies: Run/Jog, Gym, Chess, Cook, Guitar Play
 ## 📫 How to reach me:
 
 <a alt="My LinkedIn" href= "https://www.linkedin.com/in/pedrotoliveira/">
