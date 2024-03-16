@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💻 I have around 18 years of development working experience
 - 💼 I’m currently working as a Software Developer Consultant
-- 🌱 I’m currently learning Progressive Web Applications (PWA) and Evolutionary Architectures
+- 🌱 I’m currently learning Evolutionary Architectures
 - ⚡ Current Hobbies: Run/Jog, Gym, Chess, Cook, Guitar Play
 ## 📫 How to reach me:
 
