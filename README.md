@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 ## 📊 &nbsp;** Wakatime Graphs **
 <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@pedrotoliveira/b2d3426d-67b1-407f-bfc9-2bd4aae10d21.png"
+  <img src="https://wakatime.com/share/@pedrotoliveira/dd61beaf-a99c-4c4f-92ec-00e63e96913d.png"
        width="600" 
        height="400"/>
 </a>
 <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@pedrotoliveira/8e99b57a-75e7-4891-991f-cf8787852033.png" 
+  <img src="https://wakatime.com/share/@pedrotoliveira/fbba9fa3-50c8-4dc3-9e2d-4f57ebea7ddf.png" 
        width="600" 
        height="400"/>
 </a>
